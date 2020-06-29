@@ -1,0 +1,36 @@
+header{
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+    border-radius: 10px 20px 0 0;
+    font: small-caps 19pt/60px georgia, serif, sans-serif;
+}
+
+#container{
+    width: 600px;
+    min-width: 600px;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 600px;
+}
+
+p{
+    background-color: rgb(255, 255, 255);
+    font: small-caps 14pt "times new roman", serif, sans-serif;
+    
+}
+
+#paragraph1{
+    margin-top: 0;
+}
+
+#paragraph2{
+    margin-top: 10em;
+    margin-bottom: 0;
+}

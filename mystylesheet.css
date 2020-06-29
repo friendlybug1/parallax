@@ -1,0 +1,14 @@
+.myfooter{
+    border-radius: 0 0 10px 20px;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    padding: 15px;
+    line-height: normal;
+    font: small-caps 11pt georgia, serif, sans-serif;
+}
+
+.myfooter a:visited{
+  color: white;
+  text-decoration: none;
+}
